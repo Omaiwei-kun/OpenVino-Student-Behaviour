@@ -1,4 +1,4 @@
-= OpenVino Driver Behaviour
+= OpenVINO Online Learning Assistance (OOLA)
 :idprefix:
 :idseparator: -
 :sectanchors:
